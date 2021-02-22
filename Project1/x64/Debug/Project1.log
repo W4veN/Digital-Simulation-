@@ -1,0 +1,22 @@
+﻿  Simulator.cpp
+C:\Users\Karol\Desktop\Symulacja cyfrowa-afterchange - najaktualniejsze\Project1\Generators.h(35,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+C:\Users\Karol\Desktop\Symulacja cyfrowa-afterchange - najaktualniejsze\Project1\Generators.h(36,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+C:\Users\Karol\Desktop\Symulacja cyfrowa-afterchange - najaktualniejsze\Project1\BaseStation.h(75,63): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Karol\Desktop\Symulacja cyfrowa-afterchange - najaktualniejsze\Project1\BaseStation.h(81,63): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Karol\Desktop\Symulacja cyfrowa-afterchange - najaktualniejsze\Project1\BaseStation.h(90,58): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Karol\Desktop\Symulacja cyfrowa-afterchange - najaktualniejsze\Project1\BaseStation.h(93,58): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Karol\Desktop\Symulacja cyfrowa-afterchange - najaktualniejsze\Project1\WirelessNetwork.h(44,37): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Karol\Desktop\Symulacja cyfrowa-afterchange - najaktualniejsze\Project1\WirelessNetwork.h(72,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Karol\Desktop\Symulacja cyfrowa-afterchange - najaktualniejsze\Project1\WirelessNetwork.h(76,42): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+  main.cpp
+C:\Users\Karol\Desktop\Symulacja cyfrowa-afterchange - najaktualniejsze\Project1\Generators.h(35,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+C:\Users\Karol\Desktop\Symulacja cyfrowa-afterchange - najaktualniejsze\Project1\Generators.h(36,24): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+C:\Users\Karol\Desktop\Symulacja cyfrowa-afterchange - najaktualniejsze\Project1\WirelessNetwork.h(44,37): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Karol\Desktop\Symulacja cyfrowa-afterchange - najaktualniejsze\Project1\WirelessNetwork.h(72,61): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Karol\Desktop\Symulacja cyfrowa-afterchange - najaktualniejsze\Project1\WirelessNetwork.h(76,42): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Karol\Desktop\Symulacja cyfrowa-afterchange - najaktualniejsze\Project1\BaseStation.h(75,63): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Karol\Desktop\Symulacja cyfrowa-afterchange - najaktualniejsze\Project1\BaseStation.h(81,63): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Karol\Desktop\Symulacja cyfrowa-afterchange - najaktualniejsze\Project1\BaseStation.h(90,58): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Karol\Desktop\Symulacja cyfrowa-afterchange - najaktualniejsze\Project1\BaseStation.h(93,58): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Generowanie kodu...
+  Project1.vcxproj -> C:\Users\Karol\Desktop\Symulacja cyfrowa-afterchange - najaktualniejsze\x64\Debug\Project1.exe
